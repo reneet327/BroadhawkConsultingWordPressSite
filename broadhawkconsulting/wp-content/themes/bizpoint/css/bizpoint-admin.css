@@ -1,0 +1,170 @@
+.bizpoint-help-bar {
+  background: #3454D1 !important;
+  margin-right: 10px !important;
+}
+
+.bizpoint-help-bar a {
+  padding-right: 10px !important;
+  padding-left: 10px !important;
+}
+
+.bizpoint-help-bar a:before {
+  content: "\f468";
+  top: 2px;
+}
+
+.bizpoint-about-next-icon {
+  color: #82878c;
+  padding: 0 10px 0 0;
+  vertical-align: middle;
+}
+
+.bizpoint-wrap h2, .bizpoint-wrap h3 {
+  letter-spacing: .25px;
+}
+
+.bizpoint-text-center {
+  text-align: center;
+}
+
+.bizpoint-d-iblock {
+  display: inline-block;
+}
+
+.about-wrap .salt-badge {
+  position: absolute;
+  right: 0;
+  top: 200px;
+}
+
+.about-wrap .salt-badge img {
+  width: 140px;
+}
+
+.salt-badge a {
+  display: inline-block;
+}
+
+.bp-section-wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 20px;
+}
+
+.bp-section-wrap .bp-col {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  max-width: 50%;
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding: 15px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.bp-section-wrap .bp-col .col-title {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.bp-section-wrap .bp-col h3.col-title {
+  font-size: 1.2em;
+}
+
+.bp-section-wrap .bp-col ul, .bp-section-wrap .bp-col ol {
+  font-size: 14px;
+}
+
+.bp-section-wrap .bp-col ul {
+  padding-left: 20px;
+  list-style: disc;
+}
+
+.bp-section-wrap .bp-col h4 {
+  margin-bottom: 5px;
+}
+
+.bp-col .postbox {
+  min-width: 100px;
+  padding: 15px;
+  margin-bottom: 0;
+  width: 100%;
+}
+
+.step-completed {
+  color: #46b450;
+  margin-bottom: 5px;
+}
+
+.step-completed .dashicons {
+  vertical-align: middle;
+  font-size: 20px;
+  margin-right: 5px;
+  top: 0;
+}
+
+.step-not-completed {
+  color: #ffb900;
+  margin-bottom: 5px;
+}
+
+.step-not-completed .dashicons {
+  vertical-align: middle;
+  font-size: 20px;
+  margin-right: 5px;
+  top: 0;
+}
+
+.ml-10 {
+  margin-left: 10px !important;
+}
+
+.dash-lg.dashicons {
+  font-size: 32px;
+  height: 32px;
+  width: 32px;
+  margin-bottom: 10px;
+}
+
+.bp-intro-para {
+  margin: 0 15px 10px;
+}
+
+.bp-dismiss-link {
+  font-size: 13px;
+  line-height: 26px;
+  display: none;
+}
+
+.bp-free-pro-table h4 {
+  font-size: 1.2em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.bp-free-pro-table p {
+  margin-bottom: 0 !important;
+}
+
+.bp-free-pro-table th, .bp-free-pro-table td {
+  padding: 15px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.bp-free-pro-table th:first-child, .bp-free-pro-table td:first-child {
+  text-align: left;
+}
+
+.widefat.bp-free-pro-table tfoot td {
+  text-align: center;
+}
+
+.ocdi__gl-item[data-name='more premium demos'] .ocdi__gl-item-button {
+  display: none;
+}

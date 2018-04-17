@@ -1,0 +1,111 @@
+/*
+Theme Name: bizpoint
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+.text-right {
+    text-align: left;
+}
+.text-left {
+    text-align: right;
+}
+.slicknav_nav {
+    text-align: right;
+}
+.comments-link, .edit-link {
+    margin-left: 0px;
+    margin-right: 15px;
+}
+.widget.bizp-panel ul {
+    margin-right: 0rem;
+    padding-right: 0rem;
+}
+.widget_nav_menu .menu li a {
+    padding-right: 0 !important;
+}
+.comment-list {
+    margin-right: 0;
+    padding-right: 0;
+}
+.calendar_wrap #next {
+    text-align: left;
+}
+blockquote {
+    border-right-width: 4px;
+    border-left-width: 1px;
+}
+.float-right {
+    float: left;
+}
+.float-left {
+    float: right;
+}
+.bp-header-1 .main-navigation {
+	text-align: left;
+}
+.input-group .form-control:not(:last-child) {
+	border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+	border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+body {
+	overflow-x: hidden;
+}
+.input-group-btn:not(:first-child) > .btn {
+	margin-right: -1px;
+	border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+	border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+}
+.widget.bizp-panel > div > ul li a:before, .widget.bizp-panel > ul li a:before, .widget.bizp-panel > ul li:before, .widget.bizp-panel > ul > li > span:before {
+	margin-left: 8px;
+	margin-right: 0px;
+}
+.bp-header-1 .main-navigation li:last-child a {
+	padding-right: 20px;
+	padding-left: 0;
+}
+.bp-header-1 .main-navigation li li:last-child a {
+	padding-left: 20px;
+}
+.site-header {
+	text-align: right;
+}
+.site-title.h1 {
+	float: right;
+}
+.comment-navigation .nav-previous, .posts-navigation .nav-previous, .post-navigation .nav-previous {
+	float: right;
+}
+.comment-navigation .nav-next, .posts-navigation .nav-next, .post-navigation .nav-next {
+	float: left;
+	text-align: left;
+}
+.comments-link, .edit-link {
+	display: inline-block;
+}
+.mr-3 {
+	margin-left: 1rem !important;
+}
+@media (min-width: 768px) {
+	.cta-content .col-md-4 {
+	    text-align: left;
+	    margin-top: 0rem;
+	}
+}
+.slicknav_menu {
+	float: left;
+}

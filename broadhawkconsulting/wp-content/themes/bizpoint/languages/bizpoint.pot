@@ -1,0 +1,1422 @@
+# Copyright (C) 2018 SaltTechno
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: BizPoint 1.1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/bizpoint\n"
+"POT-Creation-Date: 2018-01-12 07:29:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:27
+msgid "You can try following links:"
+msgstr ""
+
+#: archive.php:34 home.php:30 index.php:30 search.php:34
+msgid "<span class=\"btn btn-primary\">Newer Posts</span>"
+msgstr ""
+
+#: archive.php:35 home.php:31 index.php:31 search.php:35
+msgid "<span class=\"btn btn-primary\">Older Posts</span>"
+msgstr ""
+
+#. translators: 1: title.
+
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:74
+msgid "Enter your comment&hellip;"
+msgstr ""
+
+#: comments.php:79
+msgid "Name"
+msgstr ""
+
+#: comments.php:82
+msgid "Email"
+msgstr ""
+
+#: comments.php:85
+msgid "Website"
+msgstr ""
+
+#: comments.php:93
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:94
+msgid "Cancel Comment"
+msgstr ""
+
+#: comments.php:95
+msgid "Post Comment"
+msgstr ""
+
+#: footer-front.php:22 footer.php:22
+msgid "BizPoint, a <a href=\"%s\" target=\"_blank\">WordPress theme by SaltTechno</a>."
+msgstr ""
+
+#: footer-front.php:31 footer.php:31
+msgid "BizPoint."
+msgstr ""
+
+#: footer-front.php:39 footer.php:39
+msgid "A <a href=\"%s\" target=\"_blank\">WordPress theme by SaltTechno</a>."
+msgstr ""
+
+#: functions.php:23
+msgid "Primary"
+msgstr ""
+
+#: header-front.php:14 header.php:14
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/blog/archive.php:4
+msgid "Archive Pages"
+msgstr ""
+
+#: inc/customizer/blog/archive.php:5
+msgid "Settings for posts displyed on archive pages like category, author, month, year etc."
+msgstr ""
+
+#: inc/customizer/blog/archive.php:17 inc/customizer/blog/home.php:25
+msgid "Display Full Post"
+msgstr ""
+
+#: inc/customizer/blog/archive.php:25 inc/customizer/blog/home.php:33
+#: inc/customizer/blog/single.php:17
+msgid "Hide Featured Image"
+msgstr ""
+
+#: inc/customizer/blog/home.php:4
+msgid "Blog Home Page"
+msgstr ""
+
+#: inc/customizer/blog/home.php:5
+msgid "Settings for posts displyed on blog home page."
+msgstr ""
+
+#: inc/customizer/blog/home.php:15
+msgid "Navigate to blog homepage on live preview to see effets of these settings."
+msgstr ""
+
+#: inc/customizer/blog/single.php:4
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/blog/single.php:5
+msgid "Settings for post displyed on singular page."
+msgstr ""
+
+#: inc/customizer/blog-settings.php:5
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer/color-settings.php:5
+msgid "Color Settings"
+msgstr ""
+
+#: inc/customizer/color-settings.php:15
+msgid "Navigation & Link Colors"
+msgstr ""
+
+#: inc/customizer/color-settings.php:25
+msgid "Main Navbar Link Colors"
+msgstr ""
+
+#: inc/customizer/color-settings.php:31
+msgid "Navbar Background"
+msgstr ""
+
+#: inc/customizer/color-settings.php:60
+msgid "Navbar Link Color"
+msgstr ""
+
+#: inc/customizer/color-settings.php:78
+msgid "Active Nav Link Color"
+msgstr ""
+
+#: inc/customizer/color-settings.php:98
+msgid "Other Links & Button Colors"
+msgstr ""
+
+#: inc/customizer/color-settings.php:104
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/color-settings.php:130
+msgid "Hover Color"
+msgstr ""
+
+#: inc/customizer/color-settings.php:162
+msgid "Other Colors"
+msgstr ""
+
+#: inc/customizer/color-settings.php:170
+msgid "Default Content Background"
+msgstr ""
+
+#: inc/customizer/color-settings.php:174
+msgid "This is default background color for the content. Check blog pages to see how this works."
+msgstr ""
+
+#: inc/customizer/color-settings.php:189
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer/color-settings.php:207
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/customizer/color-settings.php:225
+msgid "Footer Link Color"
+msgstr ""
+
+#: inc/customizer/frontpage/content.php:7
+msgid "Main Content Section"
+msgstr ""
+
+#: inc/customizer/frontpage/content.php:8
+msgid "You will have edit this content on the page that you have selected as a front page."
+msgstr ""
+
+#: inc/customizer/frontpage/content.php:18
+msgid "Hide Section"
+msgstr ""
+
+#: inc/customizer/frontpage/content.php:28
+#: inc/customizer/frontpage/cover.php:26 inc/customizer/frontpage/cta.php:27
+#: inc/customizer/frontpage/features.php:27
+#: inc/customizer/frontpage/highlights.php:27
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/frontpage/content.php:35
+#: inc/customizer/frontpage/features.php:34
+#: inc/customizer/frontpage/highlights.php:34
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/frontpage/content.php:37
+msgid "Main Content"
+msgstr ""
+
+#: inc/customizer/frontpage/content.php:50
+#: inc/customizer/frontpage/features.php:48
+#: inc/customizer/frontpage/highlights.php:48
+msgid "Section Subtitle"
+msgstr ""
+
+#: inc/customizer/frontpage/content.php:52
+msgid "This is the main content of the page. You can edit this on the page. Section title & subtitle can be changed in Customizer."
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:7
+msgid "Cover Section"
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:17
+msgid "These settings will not work if you don't set static homepage."
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:17
+msgid "Change Setting"
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:33
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:35 template-parts/frontpage/cover.php:5
+msgid "This is a customizer friendly front page."
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:36
+msgid "Describe your business in one line."
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:50
+msgid "Subtitle"
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:52 template-parts/frontpage/cover.php:6
+msgid "BizPoint is a perfect WordPress theme for your business website. It is fast, secure, search engine friendly and easy to use. It is fully responsive and works well on any device. The theme is optimized for better performance."
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:60
+msgid "Hide Button"
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:69 inc/customizer/frontpage/cta.php:48
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:71 template-parts/frontpage/cover.php:8
+msgid "Download Now"
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:78 inc/customizer/frontpage/cta.php:56
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:89 inc/customizer/frontpage/cover.php:96
+#: inc/customizer/frontpage/cta.php:67 inc/customizer/frontpage/cta.php:74
+#: inc/customizer/layout/header.php:97
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:117 inc/customizer/frontpage/cta.php:95
+msgid "Overlay Color (With Opacity)"
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:118 inc/customizer/frontpage/cta.php:96
+msgid "Set opacity to 1 if you don't want image to be displayed."
+msgstr ""
+
+#: inc/customizer/frontpage/cover.php:137 inc/customizer/frontpage/cta.php:115
+#: inc/customizer/layout/header.php:73
+msgid "Top-Bottom Spacing"
+msgstr ""
+
+#: inc/customizer/frontpage/cta.php:7
+msgid "Call-to-action Section"
+msgstr ""
+
+#: inc/customizer/frontpage/cta.php:17 inc/customizer/frontpage/features.php:17
+#: inc/customizer/frontpage/highlights.php:17
+msgid "Display Section"
+msgstr ""
+
+#: inc/customizer/frontpage/cta.php:34
+msgid "CTA Text"
+msgstr ""
+
+#: inc/customizer/frontpage/features.php:7
+msgid "Features Section"
+msgstr ""
+
+#: inc/customizer/frontpage/features.php:55
+msgid "Features"
+msgstr ""
+
+#: inc/customizer/frontpage/features.php:59
+msgid "Feature Page"
+msgstr ""
+
+#: inc/customizer/frontpage/features.php:65
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/frontpage/features.php:74
+#: inc/customizer/frontpage/highlights.php:76
+msgid "Link title to the page"
+msgstr ""
+
+#: inc/customizer/frontpage/features.php:81
+#: inc/customizer/frontpage/highlights.php:83
+msgid "Show read more link"
+msgstr ""
+
+#: inc/customizer/frontpage/highlights.php:7
+msgid "Highlights Section"
+msgstr ""
+
+#: inc/customizer/frontpage/highlights.php:55
+msgid "Select Highlight Page 1"
+msgstr ""
+
+#: inc/customizer/frontpage/highlights.php:62
+msgid "Select Highlight Page 2"
+msgstr ""
+
+#: inc/customizer/frontpage/highlights.php:69
+msgid "Select Highlight Page 3"
+msgstr ""
+
+#: inc/customizer/frontpage/loading.php:7
+msgid "Loading Animation"
+msgstr ""
+
+#: inc/customizer/frontpage/loading.php:17
+msgid "Disable loading animation"
+msgstr ""
+
+#: inc/customizer/frontpage/loading.php:18
+msgid "Check this box to disable the loading screen disaplyed on the front page. Check preview directly on website."
+msgstr ""
+
+#: inc/customizer/frontpage-settings.php:5
+msgid "Frontpage Settings"
+msgstr ""
+
+#: inc/customizer/layout/footer.php:4
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/customizer/layout/footer.php:5
+msgid "Customize your website footer layout here."
+msgstr ""
+
+#: inc/customizer/layout/footer.php:17
+msgid "Select Footer Layout"
+msgstr ""
+
+#: inc/customizer/layout/footer.php:19
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/layout/footer.php:20
+msgid "Left / Right"
+msgstr ""
+
+#: inc/customizer/layout/header.php:4
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer/layout/header.php:5
+msgid "Customize your website header layout here."
+msgstr ""
+
+#: inc/customizer/layout/header.php:17
+msgid "Select Header & Navbar Layout"
+msgstr ""
+
+#: inc/customizer/layout/header.php:18
+msgid "You can change colors in \"Customize > Color Settings\""
+msgstr ""
+
+#: inc/customizer/layout/header.php:29
+msgid "Show search icon in navbar"
+msgstr ""
+
+#: inc/customizer/layout/header.php:38
+msgid "Disable Sticky Header"
+msgstr ""
+
+#: inc/customizer/layout/site.php:4
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/layout/site.php:5
+msgid "Customize your site layout here."
+msgstr ""
+
+#: inc/customizer/layout/site.php:18
+msgid "Width Settings"
+msgstr ""
+
+#: inc/customizer/layout/site.php:23
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer/layout/site.php:27
+msgid "Select this option to display site within a box."
+msgstr ""
+
+#: inc/customizer/layout/site.php:28
+msgid "Depending on your screen size, you might need to hide controls to see effects of this change. Click on the \"Hide Controls\" button at bottom left corner. "
+msgstr ""
+
+#: inc/customizer/layout/site.php:35
+msgid "Container Width (in px)"
+msgstr ""
+
+#: inc/customizer/layout/site.php:38
+msgid "You can increase or decrease container's width using this slider."
+msgstr ""
+
+#: inc/customizer/layout/site.php:62
+msgid "Sidebar Width (in %)"
+msgstr ""
+
+#: inc/customizer/layout/site.php:65
+msgid "Check your blog page for this setting. Sidebars are not displyed everywhere."
+msgstr ""
+
+#: inc/customizer/layout/site.php:102
+msgid "Background Settings"
+msgstr ""
+
+#: inc/customizer/layout/site.php:102
+msgid "Remove background image if you want just a background color to be displayed."
+msgstr ""
+
+#: inc/customizer/layout-settings.php:5
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer/site-identity-settings.php:5
+msgid "Logo Height (in px)"
+msgstr ""
+
+#: inc/customizer/site-identity-settings.php:31
+msgid "Hide Site Title"
+msgstr ""
+
+#: inc/customizer/site-identity-settings.php:36
+msgid "Select this option to hide site title."
+msgstr ""
+
+#: inc/customizer/site-identity-settings.php:41
+msgid "Show Site Description"
+msgstr ""
+
+#: inc/customizer/site-identity-settings.php:46
+msgid "Select this option to show site description below title."
+msgstr ""
+
+#: inc/customizer/typography-settings.php:4
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/customizer/typography-settings.php:5
+msgid "Customize your website's typography here."
+msgstr ""
+
+#: inc/customizer/typography-settings.php:19
+msgid "Go to \"Elementor > Settings\" page on admin dashboard and check \"Disable Default Fonts\" setting. Otherwise, following typography settings will not work on the page built using Elementor. "
+msgstr ""
+
+#: inc/customizer/typography-settings.php:26
+msgid "Body Typography"
+msgstr ""
+
+#: inc/customizer/typography-settings.php:43
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/kirki/include-kirki.php:51
+msgid "A plugin is required to take advantage of this theme's features in the customizer."
+msgstr ""
+
+#: inc/kirki/include-kirki.php:52
+msgid "Install Kirki Toolkit now"
+msgstr ""
+
+#: inc/kirki/include-kirki.php:53
+msgid "Install Now"
+msgstr ""
+
+#: inc/kirki/include-kirki.php:56
+msgid "You have installed Kirki. Activate it to take advantage of this theme's features in the customizer."
+msgstr ""
+
+#: inc/kirki/include-kirki.php:57
+msgid "Activate Kirki Toolkit now"
+msgstr ""
+
+#: inc/kirki/include-kirki.php:58
+msgid "Activate Now"
+msgstr ""
+
+#: inc/register-widgets.php:6
+msgid "Sidebar"
+msgstr ""
+
+#: inc/register-widgets.php:8
+msgid "Add widgets here for sidebar."
+msgstr ""
+
+#: inc/register-widgets.php:16
+msgid "Header Right"
+msgstr ""
+
+#: inc/register-widgets.php:18
+msgid "You can use this area for search bar, an advertisement, social icons or contact information."
+msgstr ""
+
+#: inc/template-functions.php:53
+msgid "&#8226; Post Author &#8226;"
+msgstr ""
+
+#. translators: 1: comment date.
+
+#: inc/template-functions.php:59
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-functions.php:63
+msgid "Comment is awaiting approval"
+msgstr ""
+
+#: inc/template-functions.php:73
+msgid "Reply"
+msgstr ""
+
+#: inc/template-functions.php:74
+msgid "Edit"
+msgstr ""
+
+#: inc/template-functions.php:175
+msgid "<p>Welcome! Thank you for choosing BizPoint. We are always here to help you. Go to 'BizPoint Help' page to get any type of help.</p>"
+msgstr ""
+
+#: inc/template-functions.php:177
+msgid "Get started with BizPoint"
+msgstr ""
+
+#: inc/template-functions.php:226
+msgid "BizPoint Help"
+msgstr ""
+
+#: inc/template-functions.php:254 inc/template-functions.php:263
+#: inc/template-functions.php:272 inc/template-functions.php:281
+msgid "Fresh WordPress installation is recommended for demo import. You might need to change some settings like Menu, Frontpage or customizer options if this is not fresh WordPress."
+msgstr ""
+
+#: inc/template-functions.php:347 inc/template-functions.php:348
+msgid "Import BizPoint Demos"
+msgstr ""
+
+#. translators: %s: post date.
+
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+
+#: inc/template-tags.php:55
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+
+#: inc/template-tags.php:62
+msgid " Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+
+#: inc/template-tags.php:72
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+
+#: inc/template-tags.php:89 template-parts/content-page.php:35
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/views/about.php:2
+msgid "Welcome to BizPoint!"
+msgstr ""
+
+#: inc/views/about.php:20
+msgid "Getting Started"
+msgstr ""
+
+#: inc/views/about.php:21
+msgid "Recommended Actions"
+msgstr ""
+
+#: inc/views/about.php:22
+msgid "Support"
+msgstr ""
+
+#: inc/views/about.php:23
+msgid "Free vs Premium"
+msgstr ""
+
+#: inc/views/free-pro.php:5
+msgid "Coming Soon"
+msgstr ""
+
+#: inc/views/free-pro.php:7
+msgid "We are launching the premium version of our theme very soon. You will get more customization, more optimization and premium support with the premium version. "
+msgstr ""
+
+#: inc/views/free-pro.php:9 inc/views/support.php:9
+msgid "Post a support question"
+msgstr ""
+
+#: inc/views/free-pro.php:19
+msgid "BizPoint"
+msgstr ""
+
+#: inc/views/free-pro.php:20
+msgid "BizPoint Pro"
+msgstr ""
+
+#: inc/views/free-pro.php:26
+msgid "Mobile & Tablet Friendly"
+msgstr ""
+
+#: inc/views/free-pro.php:27
+msgid "Responsive layout based on Bootstrap 4. Works on every device."
+msgstr ""
+
+#: inc/views/free-pro.php:34
+msgid "Frontpage Sections"
+msgstr ""
+
+#: inc/views/free-pro.php:35
+msgid "Easy to edit, customizer ready front page sections."
+msgstr ""
+
+#: inc/views/free-pro.php:42
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/views/free-pro.php:43
+msgid "Easily translate the theme to any language. RTL language supported."
+msgstr ""
+
+#: inc/views/free-pro.php:50
+msgid "Optimized Performance"
+msgstr ""
+
+#: inc/views/free-pro.php:51
+msgid "Best class coding standards followed to make the theme performance optimized."
+msgstr ""
+
+#: inc/views/free-pro.php:58
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/views/free-pro.php:59
+msgid "All Google Fonts can be used. You can change the font anytime easily with a live preview."
+msgstr ""
+
+#: inc/views/free-pro.php:66
+msgid "Search Engine Friendly"
+msgstr ""
+
+#: inc/views/free-pro.php:67
+msgid "Both versions of the theme are SEO ready. Pro version comes with advanced schema.org integration."
+msgstr ""
+
+#: inc/views/free-pro.php:74
+msgid "Import Free Demos"
+msgstr ""
+
+#: inc/views/free-pro.php:75
+msgid "Import free demo websites quickly & easily. Pro version comes with more demo websites."
+msgstr ""
+
+#: inc/views/free-pro.php:82
+msgid "Import Premium Demos"
+msgstr ""
+
+#: inc/views/free-pro.php:83
+msgid "Premium demos are created specially and can be imported only with the pro version of the theme."
+msgstr ""
+
+#: inc/views/free-pro.php:90
+msgid "Advanced Customization"
+msgstr ""
+
+#: inc/views/free-pro.php:91
+msgid "With pro version, more customization options are added to make the theme more flexible."
+msgstr ""
+
+#: inc/views/free-pro.php:98
+msgid "Advanced Cover Section"
+msgstr ""
+
+#: inc/views/free-pro.php:99
+msgid "Add slider or video to the frontpage cover section."
+msgstr ""
+
+#: inc/views/free-pro.php:106
+msgid "Remove Footer Branding"
+msgstr ""
+
+#: inc/views/free-pro.php:113
+msgid "Schema.org Integration"
+msgstr ""
+
+#: inc/views/free-pro.php:120
+msgid "Priority Support"
+msgstr ""
+
+#: inc/views/getting-started.php:10
+msgid "Getting started with BizPoint is as easy as step 1, 2, 3 and 4. We have mentioned these steps below so that beginners can understand them easily. Refresh this page if you think you have completed the step but it is not updated here."
+msgstr ""
+
+#: inc/views/getting-started.php:14
+msgid "1. Install & Activate Required Plugins"
+msgstr ""
+
+#: inc/views/getting-started.php:18
+msgid "Recommended Plugins:"
+msgstr ""
+
+#: inc/views/getting-started.php:20
+msgid "Kirki Toolkit"
+msgstr ""
+
+#: inc/views/getting-started.php:21
+msgid "Elementor"
+msgstr ""
+
+#: inc/views/getting-started.php:22
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/views/getting-started.php:23
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/views/getting-started.php:27
+msgid "All above plugins are already active. You have completed step 1."
+msgstr ""
+
+#: inc/views/getting-started.php:29
+msgid "Install & Activate Now"
+msgstr ""
+
+#: inc/views/getting-started.php:36
+msgid "2. Import Demo Content"
+msgstr ""
+
+#: inc/views/getting-started.php:41
+msgid "You can skip this step if you want to create something totally different than our demos."
+msgstr ""
+
+#: inc/views/getting-started.php:45
+msgid "You have imported demo content. Step 2 is complete. If you want, you can import another demo."
+msgstr ""
+
+#: inc/views/getting-started.php:48
+msgid "Import Demo"
+msgstr ""
+
+#: inc/views/getting-started.php:50
+msgid "You need to complete step 1 before importing demo content."
+msgstr ""
+
+#: inc/views/getting-started.php:58
+msgid "3. Change Elementor Settings"
+msgstr ""
+
+#: inc/views/getting-started.php:70
+msgid "Elementor default settings are disabled. Step 3 is complete."
+msgstr ""
+
+#: inc/views/getting-started.php:74
+msgid "Disable Default Fonts & Colors"
+msgstr ""
+
+#: inc/views/getting-started.php:78
+msgid "You need Elementor page builder for this. You have not completed step 1."
+msgstr ""
+
+#: inc/views/getting-started.php:86
+msgid "4. Customize As Per Your Choice"
+msgstr ""
+
+#: inc/views/getting-started.php:90
+msgid "Go to the Customizer"
+msgstr ""
+
+#: inc/views/recommended-actions.php:11
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: inc/views/recommended-actions.php:15
+msgid "Check Free Vs Premium"
+msgstr ""
+
+#: inc/views/recommended-actions.php:16 inc/views/recommended-actions.php:27
+#: inc/views/support.php:20 inc/views/support.php:43
+msgid "Learn More"
+msgstr ""
+
+#: inc/views/recommended-actions.php:23
+msgid "Optimize Your Website"
+msgstr ""
+
+#: inc/views/recommended-actions.php:28 inc/views/recommended-actions.php:52
+#: inc/views/recommended-actions.php:65 inc/views/recommended-actions.php:78
+msgid "Dismiss"
+msgstr ""
+
+#: inc/views/recommended-actions.php:35 inc/views/support.php:27
+msgid "We would love your feedback!"
+msgstr ""
+
+#: inc/views/recommended-actions.php:39 inc/views/support.php:32
+msgid "Ask a support question"
+msgstr ""
+
+#: inc/views/recommended-actions.php:40 inc/views/support.php:31
+msgid "Rate us 5 Stars"
+msgstr ""
+
+#: inc/views/recommended-actions.php:47
+msgid "Get a managed WordPress hosting."
+msgstr ""
+
+#: inc/views/recommended-actions.php:51
+msgid "Why should you go for it?"
+msgstr ""
+
+#: inc/views/recommended-actions.php:60
+msgid "Subscribe to our Newsletter"
+msgstr ""
+
+#: inc/views/recommended-actions.php:64
+msgid "Subscribe Now"
+msgstr ""
+
+#: inc/views/recommended-actions.php:73
+msgid "Request a Feature"
+msgstr ""
+
+#: inc/views/recommended-actions.php:77
+msgid "Post your request"
+msgstr ""
+
+#: inc/views/support.php:5
+msgid "Support Forum"
+msgstr ""
+
+#: inc/views/support.php:7
+msgid "You can post your questions/queries on our support forum hosted on WordPress.org. Our support team will help you as quickly as possible. As this is WordPress support forum, you can also get help from the huge WordPress community."
+msgstr ""
+
+#: inc/views/support.php:16
+msgid "FAQs"
+msgstr ""
+
+#: inc/views/support.php:18 inc/views/support.php:41
+msgid "If you want to customize some functionality in the theme, we recommend using a child theme. If you make changes in this theme's files, those changes will be overwritten when you update the theme next time."
+msgstr ""
+
+#: inc/views/support.php:39
+msgid "Create a Child Theme"
+msgstr ""
+
+#: inc/woocommerce.php:227
+msgid "View your shopping cart"
+msgstr ""
+
+#. translators: number of items in the mini cart.
+
+#: inc/woocommerce.php:229
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: search query.
+
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search this website&hellip;"
+msgstr ""
+
+#: searchform.php:5
+msgid "Go!"
+msgstr ""
+
+#: single.php:21
+msgid "<span class=\"btn btn-primary\">Next Post</span>"
+msgstr ""
+
+#: single.php:22
+msgid "<span class=\"btn btn-primary\">Previous Post</span>"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22
+#: template-parts/others/entry-content.php:17
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/frontpage/features.php:29
+#: template-parts/frontpage/highlights.php:34
+#: template-parts/frontpage/highlights.php:54
+#: template-parts/frontpage/highlights.php:74
+msgid "Read More"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+
+#: template-parts/others/entry-content.php:6
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/others/loading.php:6
+msgid "Loading"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "BizPoint"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themes.salttechno.com/wordpress-themes/bizpoint"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "BizPoint is a perfect theme for your business website. You can import full website demos easily. Within few seconds, a fully responsive business website will be ready with a demo content. You can easily edit the content using live customizer & Elementor page builder. It works well with all latest page builders like Elementor, Beaver Builder, SiteOrigin etc. It is fast & light-weight and works with almost all popular WordPress plugins."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SaltTechno"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themes.salttechno.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width (Suitable for page builders)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr ""

@@ -1,0 +1,42 @@
+= 1.1.7 - Jan 18 2018 =
+* Add basic theme hooks
+* Remove inessential footer-front.php
+* Change Screenshot
+
+= 1.1.6 - Jan 12 2018 =
+* Disable Frontpage Customizer Section if not required
+* Add Started Content for fresh sites
+
+= 1.1.5 - Jan 12 2018 =
+* Add Demo 4
+* Change screenshot to demo 4
+* Bug Fix: Navbar Search Icon Color
+* Bug Fix: Header Right Alignment
+
+= 1.1.4 - Jan 11 2018 =
+* Corrections on demo data 1 & 2
+* Add description & tags to style.css
+
+= 1.1.3 - Jan 10 2018 =
+* Add Demo 3 to import
+* Change Screenshot to demo 3
+
+= 1.1.2 - Jan 10 2018 =
+* Load admin css on required page
+* Bundle screenshot images
+
+= 1.1.1 - Jan 10 2018 =
+* Remove Content Creation from Custoizer
+* Bug Fixes
+
+= 1.1 - Jan 09 2018 =
+* Demo Import
+* Add Custoizer Settings
+* Front page design
+* Change Screenshot
+
+= 1.0.3 - Dec 22 2017 =
+* Bug Fix
+
+= 1.0.2 - Dec 11 2017 =
+* Initial release
